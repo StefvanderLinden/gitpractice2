@@ -1,2 +1,3 @@
 # gitpractice2
-another repo to practice git
+another repo to practice git  
+Cows 🐮🐄 are really cool because they make milk 🥛 and when you ride them you can become cowboy 🤠  
